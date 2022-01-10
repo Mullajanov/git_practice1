@@ -1,6 +1,6 @@
 public class Practice1 {
 
-    // step
+    // step 1
 
     // step 2
 
